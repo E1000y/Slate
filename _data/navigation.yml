@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: testfile
+  link: /NewTestFile.html
+- name: Posts
+  link: /blog.html  
+- name: Opla Builder Howto En Français
+  link: En-francais

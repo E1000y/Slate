@@ -2,7 +2,18 @@
 layout: default
 ---
 
-![image](/assets/images/opla-avatar.png)
+<div style="text-align:center" markdown="1">
+
+
+ ![image](/assets/images/opla-avatar.png) 
+
+</div>
+
+
+
+
+ 
+
 
 
 # Comment paramétrer le robot conversationnel Opla?

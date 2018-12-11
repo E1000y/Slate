@@ -4,7 +4,6 @@ layout: default
 
 <div style="text-align:center" markdown="1">
 
-
  ![image](/assets/images/opla-avatar.png) 
 
 </div>

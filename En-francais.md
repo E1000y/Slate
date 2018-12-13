@@ -5,19 +5,13 @@ layout: default
 <div style="text-align:center" markdown="1">
 
  ![image](/assets/images/opla-avatar.png) 
-
 </div>
-
-
-
-
- 
-
 
 
 # Comment paramétrer le robot conversationnel Opla?
 
 Opla est un bot open source, que chacun peut intégrer et paramétrer comme il le souhaite. Voici quelques trucs et astuces pour apprendre à rédiger une conversation. L’installation sous windows 10 home s’est faite avec la dernière version de Docker.
+
 
 ##  le Builder de la console
 
@@ -38,3 +32,7 @@ Dans les Outputs se trouve un menu avec des items cliquables qui permettent de p
 
 [En Anglais](./index.html)                                            
 
+<div style = "text-align:center" markdown="1">
+<a href="#" class="previous">&laquo; Previous</a>
+<a href="En-français2.md" class="next">Next &raquo;</a>
+</div>

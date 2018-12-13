@@ -1,3 +1,7 @@
+---
+layout:default
+---
+
 
 
 <p>
@@ -34,7 +38,7 @@ Permet de créer un bouton qui va être cliquable par l'utilisateur et qui donc 
 
  ![image](/assets/images/trash.png) 
 </div>
-3. Trash :<br>
+4. Trash :<br>
 Ce bouton sert à supprimer un des trois items cliquables énoncés ci-dessus. Il faut d'abord supprimer le texte, puis cliquer sur le bouton pour le sélectionner, puis cliquer sur la corbeille.
 
 </p>
@@ -49,5 +53,14 @@ Ce bouton sert à supprimer un des trois items cliquables énoncés ci-dessus. I
  ![image](/assets/images/conditional.png) 
 </div>
 5. Conditionnelle <br>
-Quand on ouvre un nouvel intent, dans les outputs, supprimer la ligne "I don't understand." Apparaît alors une étoile à trois branches qu'on appelle une conditionnelle. Cette étoile est proposée tant que les outputs ne contiennent pas d'outputs non conditionnels. Elle doit contenir le même code que le code d'action qui précède, dans la logique de la conversation.
+Quand on ouvre un nouvel intent, dans les outputs, supprimer la ligne "I don't understand." Apparaît alors une étoile à trois branches qu'on appelle une conditionnelle. Cette étoile est proposée tant que les outputs ne contiennent pas d'outputs non conditionnels. Elle doit contenir le même code que le code d'action qui précède, dans la logique de la conversation.<br><br>
+
+À noter que l'interface n'est pas sensible à la asse des inputs.
+
+Quand on modifie un intent, un bouton SAVE apparaît sur lequel in convient de cliquer pour sauvegarder les changements
 </p>
+
+<div style = "text-align:center" markdown="1">
+<a href="En-francais.html" class="previous">&laquo; Previous</a>
+<a href="En-francais2.html" class="next">Next &raquo;</a>
+</div>

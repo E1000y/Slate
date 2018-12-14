@@ -6,7 +6,7 @@ layout : default
 
 Nous allons suivre le schéma suivant: 
 
-![image](assets/images/Schema-pizza.png)
+![image](assets/images/image22.png)
 
 
 

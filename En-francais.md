@@ -27,7 +27,8 @@ Il se divise en trois parties :
 
 
 Dans les Outputs se trouve un menu avec des items cliquables qui permettent de paramétrer l'interface : nous allons en expliquer quelques-uns : 
-![image](/assets/images/image3.png)
+
+![image](/assets/images/output-options.png)
 
 
 [En Anglais](./index.html)                                            

@@ -9,15 +9,18 @@ Nous allons documenter les échanges de la manière suivante : les titres d'inte
 
 #### Exemple : 
 
-    #Bonjour <br>
-    Input: <br> bonjour<br>
-    bjr<br>
+    #Bonjour 
+    Input: 
+    bonjour
+    bjr
     output: Voulez-vous une pizza sucrée? [Oui] [Non] <action=sweetyesno>
 
 
+![image](/assets/images/voulez-vous-une-pizza-sucree.png) 
+
 Donne à l'écran :
 
-![image](/assets/images/image3.png)
+![image](assets\images\voulez-vous-une-pizza-sucree-total.png)
 
 
 

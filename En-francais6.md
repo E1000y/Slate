@@ -7,6 +7,8 @@ layout : default
     action=pommesyesno<br>
     C'est parti pour une pizza tout chocolat!<br>
 
+cliquer sur SAVE, et essayer le schéma!
+
  ![image](assets/images/Tout-chocolat.png)
 
 

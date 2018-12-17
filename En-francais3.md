@@ -9,10 +9,10 @@ Nous allons documenter les échanges de la manière suivante : les titres d'inte
 
 #### Exemple : 
 
-#Bonjour <br>
-Input: <br> bonjour<br>
-bjr<br>
-output: Voulez-vous une pizza sucrée? [Oui] [Non] <action=sweetyesno>
+    #Bonjour <br>
+    Input: <br> bonjour<br>
+    bjr<br>
+    output: Voulez-vous une pizza sucrée? [Oui] [Non] <action=sweetyesno>
 
 
 Donne à l'écran :

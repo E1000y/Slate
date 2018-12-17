@@ -1,35 +1,35 @@
 ---
 layout : default
 ---
-#Non <br>
-Input : non <br>
-Output: <br>
-action=pommesyesno<br>
-C'est parti pour une pizza tout chocolat!<br>
+    #Non <br>
+    Input : non <br>
+    Output: <br>
+    action=pommesyesno<br>
+    C'est parti pour une pizza tout chocolat!<br>
 
  ![image](assets/images/Tout-chocolat.png)
 
 
 Puis nous allons rajouter la branche de droite, 
 
-#Non<br>
-Input : non<br>
-Output : <br>
-action=sweetyesno<br>
-Voulez-vous des champignons ?
-[Oui][Non]<action=mushroomsyesno>
+    #Non<br>
+    Input : non<br>
+    Output : <br>
+    action=sweetyesno<br>
+    Voulez-vous des champignons ?
+    [Oui][Non]<action=mushroomsyesno>
 
-#Oui<br>
-Input : oui<br>
-Output :<br>
-action = mushroomsyesno<br>
-C'est parti pour une Reine
+    #Oui<br>
+    Input : oui<br>
+    Output :<br>
+    action = mushroomsyesno<br>
+    C'est parti pour une Reine
 
-#Non<br>
-Input : non<br>
-Output :<br>
-action=mushroomsyesno<br>
-C'est parti pour une trois fromages !
+    #Non<br>
+    Input : non<br>
+    Output :<br>
+    action=mushroomsyesno<br>
+    C'est parti pour une trois fromages !
 
 
 

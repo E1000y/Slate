@@ -59,7 +59,7 @@ Quand on ouvre un nouvel intent, dans les outputs, supprimer la ligne "I don't u
 
 **Noter que l'interface n'est pas sensible à la casse des inputs.**
 
-Quand on modifie un intent, un bouton SAVE apparaît sur lequel in convient de cliquer pour sauvegarder les changements
+Quand on modifie un intent, un bouton SAVE apparaît sur lequel in convient de cliquer pour sauvegarder les changements. Cliquer sur "+" en bout de ligne de l'output, puis sur Save.
 
 
 <div style = "text-align:center" markdown="1">

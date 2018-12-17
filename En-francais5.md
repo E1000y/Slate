@@ -2,30 +2,34 @@
 layout : default
 ---
 
-#Bonjour <br>
-Input: <br> bonjour<br>
-bjr<br>
-output: Voulez-vous une pizza sucrée? [Oui] [Non] <action=sweetyesno>
+    #Bonjour <br>
+    Input: <br> bonjour<br>
+    bjr<br>
+    output: Voulez-vous une pizza sucrée? [Oui] [Non] <action=sweetyesno><br>
+
+
+![image](/assets/images/voulez-vous-une-pizza-sucree.png) 
+
 
 
 ![image](/assets/images/image3.png)
 
 Le texte action = sweetyesno doit être recopié dans la conditionnelle suivante pour lier l'intent #Bonjour à l'intent #Oui suivant. On va suivra la branche des Oui pour enter les deux Outputs contenus dans l'intent #Oui sur la branche de gauche du schéma.
 
-#Oui<br>
-Input : Oui<br>
-Output : <br>
-action=sweetyesno<br>
-Est-ce que vous voulez des pommes?
-[Oui][Non]<action = pommesyesno>
+    #Oui<br>
+    Input : Oui<br>
+    Output : <br>
+    action=sweetyesno<br>
+    Est-ce que vous voulez des pommes?
+    [Oui][Non]<action = pommesyesno>
 
 ![image](/assets/images/pommesyesno.png) 
 
-#Oui<br>
-Input : Oui <br>
-Output :<br>
-action=pommesyesno<br>
-C'est parti pour une pizza pommes chocolat <br>
+    #Oui<br>
+    Input : Oui <br>
+    Output :<br>
+    action=pommesyesno<br>
+    C'est parti pour une pizza pommes chocolat <br>
 
 ![image](/assets/images/pommes-chocolat.png) 
 

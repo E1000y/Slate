@@ -1,10 +1,10 @@
 ---
 layout : default
 ---
-    #Non <br>
-    Input : non <br>
-    Output: <br>
-    action=pommesyesno<br>
+    #Non 
+    Input : non 
+    Output: 
+    action=pommesyesno 
     C'est parti pour une pizza tout chocolat!<br>
 
 
@@ -14,23 +14,23 @@ Ne pas oublier de cliquer sur SAVE avant d'essayer le schéma dans le playground
 
 Puis nous allons rajouter la branche de droite, 
 
-    #Non<br>
-    Input : non<br>
-    Output : <br>
-    action=sweetyesno<br>
+    #Non
+    Input : non
+    Output :
+    action=sweetyesno
     Voulez-vous des champignons ?
     [Oui][Non]<action=mushroomsyesno>
 
-    #Oui<br>
-    Input : oui<br>
-    Output :<br>
-    action = mushroomsyesno<br>
+    #Oui
+    Input : oui
+    Output :
+    action = mushroomsyesno
     C'est parti pour une Reine
 
-    #Non<br>
-    Input : non<br>
-    Output :<br>
-    action=mushroomsyesno<br>
+    #Non
+    Input : non
+    Output :
+    action=mushroomsyesno
     C'est parti pour une trois fromages !
 
 

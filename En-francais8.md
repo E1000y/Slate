@@ -66,17 +66,23 @@ action = confirmphonenbr<br>
 ![image](assets/images/phonenbr.png) est bien votre numéro de téléphone?<br>
 <action=phonenbrconfirmed>[oui][non]<br>
 
+![image](/assets/images/Any-confirmphonenbr.png)
+
+On clique sur SAVE après avoir modifié l'intent,
 
 
 #Oui<br>
 action=phonenbrconfirmed<br>
 Quel est votre mail? ![image](assets/images/mail.png)<action=confirmmail><br>
 
+![image](/assets/images/Oui-phonenbrconfirmed.png)
 
 #Any<br>
 action=confirmmail<br>
 ![image](assets/images/mail.png) est bien votre mail?<br>
 <action=mailconfirmed>[Oui][Non]<br>]
+
+
 
 #Oui<br>
 action=mailconfirmed<br>
@@ -143,6 +149,8 @@ De même, sur mail on va écrire un "Non" entre mailconfirmed et confirmmail
 Quel est votre mail?<br>
 ![image](/assets/images/mail.png)  <span style="background-color: lightseagreen"><!--(mail=*)--> <img width="60" class="text-aligned" src="images/mail.png">&lt;action=confirmmail&gt;</span>
 
+
+Nous avons dorénavant fini de paramétrer le schéma 2!
 
 
 <div style = "text-align:center" markdown="1">

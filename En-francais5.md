@@ -4,12 +4,12 @@ layout : default
 
 L'écran de départ ressemble à ceci :
 
-![image](/assets/images/ecran-zero.png)
+![image](/assets/images/Ecran-zero.png)
 
 
 Il faut ajouter un intent en cliquant sur le plus 
 
-![image](/assets/images/add-first-intent.png)
+![image](/assets/images/Add-first-intent.png)
 
 
 Il faut supprimer l'output "I don't understand" en cliquant sur le moins sur la ligne puis sur Delete.

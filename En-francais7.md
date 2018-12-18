@@ -4,7 +4,7 @@ layout : default
 
 ## Schéma 2 : Contact
 
-![image](/assets/images/image15.png)
+![image](/assets/images/Schema-contact.png)
 
 
 <div style = "text-align:center" markdown="1">

@@ -7,10 +7,10 @@ layout : default
     action=pommesyesno<br>
     C'est parti pour une pizza tout chocolat!<br>
 
-cliquer sur SAVE, et essayer le schéma!
 
  ![image](assets/images/Tout-chocolat.png)
 
+Ne pas oublier de cliquer sur SAVE avant d'essayer le schéma dans le playground.
 
 Puis nous allons rajouter la branche de droite, 
 

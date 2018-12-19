@@ -20,19 +20,18 @@ is as shown:
 ![image](/assets/images/builder-en.png)
 </div>
 
-Il se divise en trois parties :
+It is divided into three parts : 
 
-1. Le Playground, où l'on teste le bot
-1. les Intents, qui sont des mots-clés que l'utilisateur ou le chatbot emploie pour établir la conversation. Les intents sont précédés d'un dièse.
-1. les Inputs et les Outputs, propres à chaque Intent, qui sont les réponses .(output) que donne le robot à chaque entrée (Input). C'est véritablement dans les Outputs que va se passer 80% de du paramétrage de la conversation.
+1. The Playground, where the bot is tested
+1. The Intents, which are the keywords used by user or computer to establish the conversation. Intents are preceded by a sharp key.
+1. Inputs and Outputs, specific to each Intent, which are the resposes (Output) that the robot gives to each entered data (Input). It's really in Outputs that 80% of the conversation is set.
 
-
-Dans les Outputs se trouve un menu avec des items cliquables qui permettent de paramétrer l'interface : nous allons en expliquer quelques-uns : 
+In the outputs lies a menu with clikable items to set the interface up, we are going to explain some of them :
 
 ![image](/assets/images/output-options.png)
 
 
-[En Anglais](./index.html)                                            
+[In French](./site/En-francais.html)                                            
 
 <div style = "text-align:center" markdown="1">
 <a href="#" class="previous">&laquo; Previous</a>

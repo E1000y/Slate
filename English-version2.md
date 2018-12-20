@@ -53,13 +53,14 @@ This button is to remove any of the three buttons above in Outputs, which must b
 
  ![image](/assets/images/device_hub.png) 
 </div>
-    5. Conditionnelle 
+    5. Conditional
 
-Quand on ouvre un nouvel intent, dans les outputs, supprimer la ligne "I don't understand." Apparaît alors une étoile à trois branches qu'on appelle une conditionnelle. Cette étoile est proposée tant que les outputs ne contiennent pas d'outputs non conditionnels. Elle doit contenir le même code que le code d'action qui précède, dans la logique de la conversation.<br><br>
+When creating a new intent, suppress the "I don't understand" line in Outputs. Then appears a three pointed stars called a conditional. This star is seen as long as outputs do not contain non conditional outputs. Its' code content should be the same as the action code ![image](/assets/images/chevrons.png) in logical order of conversation. <br><br>
 
-**Noter que l'interface n'est pas sensible à la casse des inputs.**
+**Please note that the interface is not input case sensitive**
 
-Quand on modifie un intent, un bouton SAVE apparaît sur lequel in convient de cliquer pour sauvegarder les changements. Cliquer sur "+" en bout de ligne de l'output, puis sur Save.
+When an intent is modified, one must first click the "+" sign on end of line, and then a blue capital SAVE button appears to the right of the Intent's name in Intent screen, on which one must click to save changes. 
+
 
 
 <div style = "text-align:center" markdown="1">

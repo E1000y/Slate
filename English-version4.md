@@ -2,11 +2,11 @@
 layout : default
 ---
 
-## Schéma 1: Pizzas!
+## Scheme 1: Pizzas!
 
-Nous allons suivre le schéma suivant: 
+We will write the following example
 
-![image](assets/images/image22.png)
+![image](assets/images/schema-pizza.png)
 
 
 

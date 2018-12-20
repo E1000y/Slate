@@ -2,113 +2,116 @@
 layout : default
 ---
 
-L'écran de départ ressemble à ceci :
+The start screen looks like this :
 
 ![image](/assets/images/Ecran-zero.png)
 
 
-Il faut ajouter un intent en cliquant sur le plus 
+One must add an intent clicking on the plus sign :
 
 ![image](/assets/images/Add-first-intent.png)
 
 
-Il faut supprimer l'output "I don't understand" en cliquant sur le moins sur la ligne puis sur Delete.
+one must delete the Input "Intent" and the Output "I don't understand" clicking on the minus on the line and on delete.
 
-![image](/assets/images/delete-i-dont-understand.png)
+![image](/assets/images/delete-i-dont-understand-en.png)
 
-Il faut renommer l'output en "Bonjour"
-
-![image](/assets/images/rename-intent-bonjour.png)
+Click on the pencil to the right of the intents column to rename the intent
 
 
-On inscrit dans l'intent les lignes suivantes :
+![image](/assets/images/rename-intent-click.png)
 
-    #Bonjour 
-    Input: bonjour
-    bjr
-    output: Voulez-vous une pizza sucrée? [Oui] [Non] <action=sweetyesno>
+![image](/assets/images/rename-intent-hello.png)
 
 
+In the intent one must write the following
 
-![image](/assets/images/voulez-vous-une-pizza-sucree.png) 
-
-
-ce qui donne à l'écran :
-
-
-![image](/assets/images/voulez-vous-une-pizza-sucree-total.png)
+    #Hello
+    Input: Hello
+    output: Would you like a sweet pizza? [yes] [no] <action=sweetyesno>
 
 
-Il faut cliquer sur le signe plus de la ligne et cliquer sur SAVE pour sauvegarder la progression du paramétrage.
 
-![image](/assets/images/Bonjour-output-sweetyesno-save1.png)
-
-Il faut ensuite cliquer sur "SAVE" en haut dans le cadre des intents
-
-![image](/assets/images/Bonjour-save.png)
+![image](/assets/images/would-you-like-a-sweet-pizza.png) 
 
 
-Le texte action = sweetyesno doit être recopié dans la conditionnelle suivante pour lier l'intent #Bonjour à l'intent #Oui suivant. On va suivre la branche des Oui pour enter les deux Outputs contenus dans l'intent #Oui sur la branche de gauche du schéma.
+which on screen shows :
 
 
-Pour ajouter l'intent Oui, cliquer sur le signe plus gris/bleu à droite dans la colonne intents.
+![image](/assets/images/would-you-like-a-sweet-pizza-total.png)
 
-![image](/assets/images/add-an-intent.png)
 
-Pour modifier le nom de l'intent, il faut cliquer sur le crayon à droite dans la ligne qui vient d'apparaître,
+One must click on the plus end of line and on SAVE top of page to save the changes.
+
+![image](/assets/images/would-you-like-a-sweet-pizza-saved.png)
+
+
+
+![image](/assets/images/Hello-SAVE.png)
+
+
+
+
+
+
+
+To add the Yes intent (#Yes), click on the grey/blue plus sign on the right in intents column
+
+
+![image](/assets/images/add--an-intent-hello.png)
+
+To modify the name of the intent, one must click the pencil on the right of the upcoming line,
 
 ![image](/assets/images/modify-intents-name.png)
 
-Puis saisir le nouveau nom,
+Then type in the new name
 
-![image](/assets/images/rename-intent.png)
+![image](/assets/images/rename-intent-yes.png)
 
-Ensuite il faut entrer Oui dans la ligne d'inputs et supprimer les outputs éventuellement déjà présents en cliquant sur le moins sur leur ligne.
+Then enter Yes in the line of inputs and delete the default outputs present clicking on the minus of the line and SAVE on top of page.
 
-![image](assets/images/supprimer-outputs.png)
+Ensuite il faut entrer Oui dans la ligne d'inputs et supprimer les autres inputs et outputs éventuellement déjà présents en cliquant sur le moins sur leur ligne.
+
+![image](assets/images/suppress-inputs-and-outputs.png)
 
 
-Ensuite on va entrer le texte des outputs de l'intent Oui :<br>
+Then we will enter the text of the Yes intent's output :<br>
 
-    #Oui
-    Input : Oui
+    #Yes
+    Input : Yes
     Output : 
     action=sweetyesno
-    Est-ce que vous voulez des pommes?
-    [Oui][Non]<action = pommesyesno>
+    Would you like apples on it?
+    [Yes][No]<action = applesyesno>
 
 
-![image](/assets/images/pommesyesno.png)
+![image](/assets/images/Yes-applesyesno.png)
 
 
-
-On entre le code action=sweetyesno en cliquant sur la conditionnelle
+action=sweetyesno must be entered clicking on the three pointed star called conditionnal or insert condition
 
 ![image](/assets/images/insert-condition.png)
 
 ![image](/assets/images/action-eg-sweetyesno.png)
-![image](/assets/images/pommesyesno-boite.png)
+![image](/assets/images/save-applesyesno.png)
+
+Never forget to click on the plus sign end of line and on SAVE on top each time an intent is modified.
+
+![image](assets/images/YES-save.png)
 
 
-Ne pas oublier de cliquer sur le signe plus et sur SAVE à la fin de chaque modification d'intent
-
-![image](assets/images/save-pommesyesno.png)
+Add the second output, ending the all-yes side of the diagram.
 
 
-Et pour le deuxième output, qui constitue la fin de la chaîne des "Oui"
+    action=applesyesno
+    There goes an apple-chocolate pizza!
 
-    action=pommesyesno
-    C'est parti pour une pizza pommes chocolat 
-
-![image](/assets/images/pommes-chocolat.png)
+![image](/assets/images/yes-applechocolatepizza.png)
 
 
-Après avoir cliqué sur SAVE, vous pouvez faire des tests dans le playground ainsi qu'indiqué sur les captures d'écrans, pour voir si vos enchaînements se passent bien.
+After having clicked SAVE, we can test out the conversation in the playground to see if the dialogue unfolds correctly.
 
-
-Félicitations, vous avez écrit votre première branche de schéma conversationnel! Maintenant nous allons rajouter le Non qui conduit à Pizza tout chocolat.
-
-
+Congratulations, you have written your first branch of conversational scheme! Now we will add the intent No to complete the scheme.
 
 
 <div style = "text-align:center" markdown="1">

@@ -12,7 +12,7 @@ Il faut ajouter un intent en cliquant sur le plus
 ![image](/assets/images/Add-first-intent.png)
 
 
-Il faut supprimer l'output "I don't understand" en cliquant sur le moins sur la ligne puis sur Delete.
+Il faut supprimer l'input "Intent" et  l'output "I don't understand" en cliquant sur le moins sur la ligne puis sur Delete.
 
 ![image](/assets/images/delete-i-dont-understand.png)
 

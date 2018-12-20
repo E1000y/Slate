@@ -146,8 +146,8 @@ likewise, on mail we will write a "No" between mailconfirmed et confirmmail
 
 #No<br>
 <span style="background-color: lightcoral">action= mailconfirmed</span><br>
-What is your e-mail adress?<br>
-![image](/assets/images/mail.png)  <span style="background-color: lightseagreen"><!--(mail=*)--> <img width="60" class="text-aligned" src="images/mail.png">&lt;action=confirmmail&gt;</span>
+What is your e-mail adress?
+![image](/assets/images/mail.png)  <span style="background-color: lightseagreen"><!--(mail=*)-->&lt;action=confirmmail&gt;</span>
 
 
 We are now done setting up diagram number 2!

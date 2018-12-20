@@ -111,11 +111,18 @@ Add the second output, ending the all-yes side of the diagram.
 
 After having clicked SAVE, we can test out the conversation in the playground to see if the dialogue unfolds correctly.
 
-Congratulations, you have written your first branch of conversational scheme! Now we will add the intent No to complete the scheme.
+The conversation should look something like this : 
+
+![image](/assets/images/Playground-sweet-pizza.png)
+
+![image](/assets/images/Playground-apple-chocolate-pizza.png)
+
+
+Congratulations, you have written your first branch of conversation! Now we will add the intent No to complete the diagram.
 
 
 <div style = "text-align:center" markdown="1">
-<a href="En-francais4.html" class="previous">&laquo; Previous</a>
-<a href="En-francais6.html" class="next">Next &raquo;</a>
+<a href="English-versions4.html" class="previous">&laquo; Previous</a>
+<a href="English-version6.html" class="next">Next &raquo;</a>
 </div>
 

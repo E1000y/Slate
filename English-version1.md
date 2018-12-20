@@ -35,5 +35,5 @@ In the outputs lies a menu with clikable items to set the interface up, we are g
 
 <div style = "text-align:center" markdown="1">
 <a href="#" class="previous">&laquo; Previous</a>
-<a href="En-francais2.html" class="next">Next &raquo;</a>
+<a href="English-version2.html" class="next">Next &raquo;</a>
 </div>

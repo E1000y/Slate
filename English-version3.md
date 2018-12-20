@@ -25,8 +25,8 @@ the code written in chevrons does not appear in the playground console, it is us
 
 
 <div style = "text-align:center" markdown="1">
-<a href="En-francais2.html" class="previous">&laquo; Previous</a>
-<a href="En-francais4.html" class="next">Next &raquo;</a>
+<a href="English-version2.html" class="previous">&laquo; Previous</a>
+<a href="English-version4.html" class="next">Next &raquo;</a>
 </div>
 
 

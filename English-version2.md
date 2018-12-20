@@ -64,6 +64,6 @@ When an intent is modified, one must first click the "+" sign on end of line, an
 
 
 <div style = "text-align:center" markdown="1">
-<a href="En-francais.html" class="previous">&laquo; Previous</a>
-<a href="En-francais3.html" class="next">Next &raquo;</a>
+<a href="English-version1.html" class="previous">&laquo; Previous</a>
+<a href="English-version3.html" class="next">Next &raquo;</a>
 </div>
